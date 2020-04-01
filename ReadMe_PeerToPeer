@@ -1,0 +1,29 @@
+				
+							        // Peer to peer //
+
+
+
+
+		1- Lancer les deux mains des classes Communications et Server.
+
+		2- Dans la console de la classe server, on attend qu'un autre pair se connecte, et affiche son adresse son port, et tout ce qu'on lui 			renvoie
+
+		3- dans la console de la classe communication, on nous demande de saisir une addresse et un port, correspondants à un autre pair.
+
+		4- (toujours dans communcation) Un Scanner apparait à chaque fois pour nous demander de lui fournir un ID correspondant à la requête 			que nous désirons envoyer.
+
+		5- Aussi, une interface contenant un seul boutton (arrete/lancer). En cliquant sur le boutton une premiere fois, cela nous permet 			d'assurer l'interraction avec le serveur. En cliquant dessus une deuximme fois, cela nous de bloquer à nouveau cette 			communication, et ce afin de pouvoir saisir sur le scanner.
+
+
+
+
+
+
+
+
+
+
+
+
+
+						// MESSAOUI Mohand Ameziane // TAGHERSET Yanis //
